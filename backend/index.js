@@ -22,4 +22,4 @@ app.post("/authenticate", async (req, res) => {
   }
 });
 
-startServer();
+app.listen(3001);
