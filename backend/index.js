@@ -22,4 +22,4 @@ app.post("/authenticate", async (req, res) => {
   }
 });
 
-app.listen(https://us-chat.onrender.com);
+startServer();
